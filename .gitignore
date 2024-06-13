@@ -12,7 +12,7 @@ npm-debug.log
 yarn-error.log
 
 #Back-end
-/backend
+node_modules
 
 #angular
 /angular
